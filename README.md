@@ -1,8 +1,8 @@
-- Hello, my name is Mia G., @mgrego1. 
+- Hello, my name is Mia G., @mgrego1.
+- M.S. Bioinformatics, Georgia Institute of Technology, Parker H Petit Institute for Bioengineering & Bioscience
 - B.S. Biopsychology, Cognition & Neuroscience, University of Michigan, Ann Arbor.
 - B.S. Biomedical Anthropology, University of Michigan, Ann Arbor.
-- M.S. Bioinformatics Candidate, Georgia Institute of Technology, Parker H Petit Institute for Bioengineering & Bioscience
-- I am interested in Medical Image Processing, Neuroscience/Neuroinformatics/Neuroengineering
+- I am interested in bioinformatics, data science and machine learning
 - If interested in collaborating, please contact me at mgrego@umich.edu
 
 <!---
